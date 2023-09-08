@@ -100,8 +100,4 @@ You can save the trained model for later use.
 model.save("fruit_classification.h5")
 ```
 
-Feel free to explore this project further and modify the code as needed. Happy coding!
-
----
-
-Make sure to replace the code placeholders with actual links to your dataset, and update the model architecture section with the appropriate layers and configurations used in your project.
+Feel free to explore this project further and modify the code as needed.
